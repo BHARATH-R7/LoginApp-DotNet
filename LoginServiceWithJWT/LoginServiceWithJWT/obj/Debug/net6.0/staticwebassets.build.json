@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pPAxS6UKBv6dHevJb1B+gExQ1OyS3hCbb8co5pA2fcI=",
+  "Source": "LoginServiceWithJWT",
+  "BasePath": "_content/LoginServiceWithJWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
